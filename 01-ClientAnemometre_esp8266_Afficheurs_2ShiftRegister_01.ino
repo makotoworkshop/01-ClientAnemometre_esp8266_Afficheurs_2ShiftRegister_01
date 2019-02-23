@@ -91,7 +91,7 @@ void loop() {
   CalculReception();
   Afficheurs();
       // Delay
-  delay(1000);
+  delay(500);
     
 //  VitesseVentC = 2;
 //  VitesseVentD = 7;
